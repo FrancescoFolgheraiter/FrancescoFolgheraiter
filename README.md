@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
-- 🌱 I’m currently immersed in in-depth study of **JavaScript, Vue, PHP and Laravel**
+- 🌱 I’m currently immersed in in-depth study of **shopware6**
 
-- 💬 Ask me about **vue, laravel, chartjs**
+- 💬 Ask me about **vue, laravel, js, shopware6, symfony**
 
 - 📫 How to reach me **francesco.folgheraiter92@gmail.com**
 
